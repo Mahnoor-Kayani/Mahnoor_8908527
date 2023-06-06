@@ -1,1 +1,3 @@
-# Mahnoor_8908527
+Mahnoor Kayani
+Lab 3
+8908527
